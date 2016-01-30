@@ -4,7 +4,7 @@
 
 <form action="{% url 'upload' %}" method="post" enctype="multipart/form-data">  
     {% csrf_token %}
-    <h1>James thinks Gavin is soooo cooll/h1>
+    <h1>James thinks Gavin is soooo cooll</h1>
     <div >
     {{ form.file }}
     <p class="help-block">Note: We do not store your image.</p>
