@@ -13,7 +13,7 @@ ALLOWED_HOSTS = (
     'localhost',
 )
 
-OXFORD_KEY = "523ba8c597dd43f2a73361391971bc18"
+OXFORD_KEY = "bcaa76c174124f8cab64de6f511e5329"
 
 ADMINS = (
     # ('Your Name', 'your_email@example.com'),
